@@ -1,3 +1,3 @@
 # Sharon Robins
 
-Algebraic geometry and combinatorics specially toric geometry, polytopes,  and matroids.
+Algebraic geometry and combinatorics, especially toric geometry, polytopes, and matroids.
